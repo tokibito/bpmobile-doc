@@ -7,7 +7,6 @@ django-bpmobileは\ `Djangoフレームワーク <http://www.djangoproject.com/>
 * キャリア機種判別
 * キャリアに応じた文字コード変換
 * 絵文字
-* 日本語メール送信
 * iモードIDを利用したセッション
 
 ダウンロード
@@ -25,16 +24,4 @@ django-bpmobileは\ `Djangoフレームワーク <http://www.djangoproject.com/>
 
   hg clone http://bitbucket.org/tokibito/django-bpmobile/
 
-easy_installやpipでもインストールすることができます。
-
-.. code-block:: bash
-
-  easy_install django-bpmobile
-
-または、
-
-.. code-block:: bash
-
-  pip install django-bpmobile
-
-インストールの詳細については、インストールドキュメントを参照して下さい。
+easy_installやpipでもインストールすることができます。インストールの詳細については、インストールドキュメントを参照して下さい。
