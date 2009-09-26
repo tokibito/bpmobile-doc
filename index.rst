@@ -10,10 +10,11 @@ django-bpmobile ドキュメント
    start
    install
    tutorial
-   templatetags
    session
    emoji
+   templatetags
    middleware
+   others
    license
 
 インデックス
