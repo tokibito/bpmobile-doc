@@ -14,6 +14,7 @@ django-bpmobile ドキュメント
    emoji
    templatetags
    middleware
+   context_processors
    others
    license
 
