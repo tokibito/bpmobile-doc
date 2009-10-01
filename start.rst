@@ -6,6 +6,7 @@ django-bpmobileは\ `Djangoフレームワーク <http://www.djangoproject.com/>
 
 * キャリア機種判別
 * キャリアに応じた文字コード変換
+* テキストフィールドの入力フォーマット指定
 * 絵文字
 * iモードIDを利用したセッション
 
