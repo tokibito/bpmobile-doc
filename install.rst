@@ -1,3 +1,5 @@
+.. _install:
+
 ============
 インストール
 ============
@@ -6,7 +8,7 @@ django-bpmobileは以下のモジュールに依存しています。
 
 * `WSGIUserAgentMobile <http://code.google.com/p/wsgiuseragentmobile/>`_
 
-easy_installやpipでインストールするには以下のコマンドを実行します。
+easy_installや\ `pip <http://pip.openplans.org/>`_\ でインストールするには以下のコマンドを実行します。
 
 .. code-block:: bash
 

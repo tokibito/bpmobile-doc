@@ -25,4 +25,4 @@ django-bpmobileは\ `Djangoフレームワーク <http://www.djangoproject.com/>
 
   hg clone http://bitbucket.org/tokibito/django-bpmobile/
 
-easy_installやpipでもインストールすることができます。インストールの詳細については、インストールドキュメントを参照して下さい。
+easy_installやpipでもインストールすることができます。インストールの詳細については、\ :ref:`install`\ を参照して下さい。
