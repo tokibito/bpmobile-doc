@@ -10,6 +10,8 @@ django-bpmobileのテンプレートタグセットを利用するには、テ�
 
   {% load mobile %}
 
+このテンプレートタグセットを利用する場合には、\ :ref:`context_processor-agent`\ コンテキストプロセッサを有効にする必要があります。
+
 emoji
 =====
 
@@ -33,7 +35,7 @@ emojicontents～endemojicontents間の絵文字コードをDoCoMoのコードに
 mobileurl
 =========
 
-Django標準のurlタグと同等ですが、DoCoMoのAgentに対してguid=onパラメータを自動的に付与します。_paramsにはGETパラメータを指定することができます。_anchorにアンカーを指定することができます。_noguidを入れるとguid=onを付与しません。
+Django標準のurlタグと同等ですが、DoCoMoのAgentに対して ``guid=on`` パラメータを自動的に付与します。 ``_params`` にはGETパラメータを指定することができます。 ``_anchor`` にアンカーを指定することができます。 ``_noguid`` を入れると ``guid=on`` を付与しません。
 
 .. code-block:: html+django
 
