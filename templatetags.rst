@@ -41,6 +41,8 @@ Django標準のurlタグと同等ですが、DoCoMoのAgentに対して ``guid=o
 
   {% mobileurl some_view arg1,arg2,name1=value1,_params=param1=val1&param2=val2,_anchor=foo,_noguid %}
 
+.. _templatetags-mobile_input_format:
+
 mobile_input_format
 ===================
 
