@@ -26,3 +26,10 @@ django-bpmobileのデフォルト出力文字コード以外のコードで、�
   @encoded_response(encoding='cp932', charset='Shift_JIS', content_type='text/html')
   def some_view(request):
       return HttpResponse(u'これはどのキャリアでもShift_JISになります。')
+
+参考資料
+========
+
+* `作ろうiモードコンテンツ <http://www.nttdocomo.co.jp/service/imode/make/>`_
+* `au 技術情報 <http://www.au.kddi.com/ezfactory/tec/>`_
+* `SoftBank 技術資料 <http://creation.mb.softbank.jp/doc_tool/>`_
