@@ -12,6 +12,8 @@ django-bpmobileのテンプレートタグセットを利用するには、テ�
 
 このテンプレートタグセットを利用する場合には、\ :ref:`context_processor-agent`\ コンテキストプロセッサを有効にする必要があります。
 
+.. _templatetags-emoji:
+
 emoji
 =====
 
@@ -21,7 +23,9 @@ DoCoMoの絵文字コードを挿入します。
 
   {% emoji "識別名" %}
 
-識別名については、\ :ref:`emoji`\ を参照してください。
+識別名については、\ :ref:`emoji-identify_name`\ を参照してください。
+
+.. _templatetags-emojicontents:
 
 emojicontents
 =============
